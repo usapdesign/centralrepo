@@ -1,7 +1,12 @@
-h1{
+h1 {
 	color:red;
 }
 
-h2{
+h2 {
 	margin:0;
 }
+
+	figure {
+		padding-left: 0;
+		padding-right: 0;
+	}
