@@ -24,6 +24,10 @@ h2 {
 		text-align: center;
 	}
 
+	div.item {
+		color: green;
+	}
+
 .clearfix {
 	clear: both;
 }
