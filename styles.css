@@ -1,24 +1,26 @@
 h1 {
-	color:red;
+	color: red;
+	text-align: center;
 }
 
 h2 {
 	margin:0;
 	border: 1px solid red;
+	padding: 0;
 }
 
 	figure {
 		padding-left: 0;
 		padding-right: 0;
+		background: none scroll no-repeat 0 0 transparent;
 	}
 
 
 	p{
 		text-align: center;
-	}
-
-	p{
 		margin: 0;
+		padding: 25px;
+		text-align: center;
 	}
 
 .clearfix {
