@@ -1,14 +1,17 @@
 h1 {
-	color:red;
+	color: red;
+	text-align: center;
 }
 
 h2 {
 	margin:0;
+	padding: 0;
 }
 
 	figure {
 		padding-left: 0;
 		padding-right: 0;
+		background: none scroll no-repeat 0 0 transparent;
 	}
 
 
@@ -18,5 +21,7 @@ h2 {
 
 	p{
 		margin: 0;
+		padding: 25px;
+		text-align: center;
 	}
 
