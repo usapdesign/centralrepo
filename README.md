@@ -1,2 +1,2 @@
 # centralrepo
-Hello world, Im derwin sadiwa
+Hello, Im derwin sadiwa
